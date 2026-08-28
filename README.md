@@ -26,3 +26,5 @@ Sistem kalender cerdas dengan indikator status berbasis titik warna:
 *   **Pemantauan Real-time**: Melihat siapa saja yang belum melapor pada hari tertentu.
 *   **Ranking Bulanan**: Perhitungan otomatis peringkat pegawai berdasarkan akumulasi poin kedisiplinan.
 
+Link Download Aplikasi :
+https://github.com/kipapp7311/LaporanKegiatanBPS/releases/tag/Kipapps
